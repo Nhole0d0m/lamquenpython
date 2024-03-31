@@ -1,0 +1,5 @@
+name='nhole'
+tuoi='17'
+sdt='0367023912'
+result=f'student:{name}\n age:{tuoi}\n phone:{sdt}'
+print(result)

@@ -1,0 +1,4 @@
+value = input() # prompt để None
+print('first value is =>', value)
+next_value = input('please enter one more value: ')
+print('The second value is =>', next_value)
